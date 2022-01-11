@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<chatroom>
+  <users><user name="ert"/><user name="ert"/><user name="DickMan"/><user name="DickMan"/></users>
+  <messages><message name="ert" color="#000000">ertyy</message><message name="ert" color="#ffffff">ertyy</message><message name="ert" color="#000000">oooo</message><message name="DickMan" color="#ffffff">qwqw</message><message name="DickMan" color="#ffffff">erer</message><message name="DickMan" color="#000000">dd</message></messages> <!-- result should be: <messages> ??????(can't follow) </messages> -->
+</chatroom>
